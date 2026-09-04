@@ -1,6 +1,8 @@
+
 def sumar(a, b):
  # TODO: implementar suma
  pass
+
 def restar(a, b):
     return a - b
 
@@ -9,7 +11,6 @@ num2 = float(input("Ingrese el segundo número: "))
 
 resultado = restar(num1, num2)
 
-print(f"La resta de {num1} - {num2} es {resultado}")
 
 def multiplicar(a, b):
   return a * b
